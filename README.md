@@ -13,4 +13,9 @@
 
 4 - install awsebcli
 
-5 - eb init -p docker  
+5 - eb init -p docker  #Docker-based project#
+
+6 - eb create #Docker-based project#-env
+
+7 - eb terminate #Docker-based project#-env
+
